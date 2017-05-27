@@ -1,0 +1,48 @@
+body {
+  background-color: #000;
+}
+
+.md-gap {
+  margin-left: 25px;
+  margin-right: 25px
+}
+
+.md-drop {
+  margin-top: 45px !important
+}
+
+.container {
+  width: 50%;
+  background-color: #fff;
+  padding: 30px;
+}
+
+.logo {
+  height: 45px;
+  background-color: #000;
+}
+
+.button {
+  height: 20px;
+  background-color: #000;
+  margin-top: 10px;
+}
+
+.hero {
+  height: 275px;
+  background-color: #000;
+  margin-top: 25px;
+  padding: 0px;
+}
+
+.subhead {
+  height: 20px;
+  background-color: #000;
+}
+
+.line, .box {
+  height: 125px;
+  background-color: #000;
+  margin-top: 10px;
+  /*margin: 10px;*/
+}
